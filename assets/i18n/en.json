@@ -1,0 +1,14 @@
+{
+    "loginComponent": {
+
+        "login": "Login ",
+        "forget": "Forget Password   ",
+        "signin": "Sign In ",
+        "email": "Enter Your Email ",
+        "password": "Enter Your Password ",
+        "resetpassword": "Reset Password ",
+        "send": " Send ",
+        "close": "Close"
+
+    }
+}

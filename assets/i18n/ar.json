@@ -1,0 +1,51 @@
+{
+    "loginComponent": {
+
+        "login" : "تسجيل الدخول ",
+        "forget":"هل نسيت كلمة السر ؟ ",
+        "signin" : "تسجيل الدخول ",
+        "email" : " ادخل البريد الالكتروني",
+        "password" : " ادخل كلمة السر ",
+        "resetpassword" : "استعادة كلمة السر ",
+        "send" : " ارسال ",
+        "close" : "اغلاق"
+
+    },
+    "addCompanyComponent" : {
+        "companyName" : "اسم الشركة ",
+        "activity" : "نشاط الشركة ",
+        "email":"  البريد الالكتروني",
+        "regNumber": "رقم السجل ",
+        "address":"العنوان ",
+        "phone":"الهاتف",
+        "tax":"البطاقة الضريبية ",
+        "next":" التالي  ",
+        "back":"عودة",
+        "addCompany":"اضافة شركة ",
+        "setting":"الاعدادات",
+        "select":"اختار الدولة",
+        "egypt":"مصر" ,
+        "saudi":"السعودية",
+        "currency":"العملة",
+        "symbol":"الرمز",
+        "companyRequrird" : "اسم الشركة مطلوب",
+        "companyActivity" : "النشاط مطلوب",
+        "companyReg" : "الرقم التعريفي مطلوب",
+        "companyAddress": "العنوان مطلوب",
+        "companyPhone":"الهاتف مطلوب ",
+        "companyTax":"الضريبة مطلوبة"
+
+
+
+
+    },
+    "addBranchComponent" :{
+        "name":"اسم الفرع ",
+        "email":"  البريد الالكتروني",
+        "address":"العنوان ",
+        "phone":"الموبايل",
+        "telephone":"الهاتف",
+        "login":"تسجيل  "
+
+    }
+}
